@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * reverse_array - reverse array of integer
- * ptint_array - presents values of an array
+ *
  * @a: function parameter
- * @n number of elements in the array
+ * @n: number of elements in the array
  *
  * Return: void
  */
